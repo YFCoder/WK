@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="worktilePriject:war">
+    <output-path>$PROJECT_DIR$/../worktileServer/target</output-path>
+    <root id="archive" name="worktilePriject.war">
+      <element id="artifact" artifact-name="worktilePriject:war exploded" />
+    </root>
+  </artifact>
+</component>
